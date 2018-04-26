@@ -6,6 +6,8 @@ William Playfair is considered the father of statistical graphics, having invent
 
 This book featured a variety of graphs including the image below. In this famous example, he compares exports from England with imports into England from Denmark and Norway from 1700 to 1780.
 
+![](https://github.com/lpyuan/AddPics/blob/master/1.png)
+
 **John Snow (1813–1858)**
 
 In 1854, a cholera epidemic spread quickly through Soho in London. The Broad Street area had seen over 600 dead, and the remaining residents and business owners had largely fled the terrible disease.
